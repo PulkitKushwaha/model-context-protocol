@@ -20,7 +20,7 @@ mcp-deep-dive/
 ## The Three Sections
  
 ### 01 · Why Is It Needed?
-The problem that existed before MCP — fragmented, per-agent tool integrations, tangled concerns, no reusability. Why the industry needed a standard and what it was designed to replace.
+The problem that existed before MCP was the fragmented, per-agent tool integrations, tangled concerns, no reusability of tools, resources and prompts. Why the industry needed a standard and what it was designed to replace.
  
 ### 02 · What It Actually Is
 The full protocol: JSON-RPC 2.0, the three-layer architecture (Host · Client · Server), the data layer (Tools · Resources · Prompts), transport types, and the MCP session lifecycle.
